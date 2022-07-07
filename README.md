@@ -1,10 +1,10 @@
-Laboratorio 5
+**Laboratorio 5**
 
-Integrantes: Altamirano Ricardo, Novoa Jorge, Bustos Ruben
+**Integrantes:** Altamirano Ricardo, Novoa Jorge, Bustos Ruben
 
-Nrc: 
+**Nrc:** 
 
-Ingeniero: Aululema Darwin
+**Ingeniero:** Aululema Darwin
 
 **PRÁCTICA No. 5 TEOREMA DE THÉVENIN**
 
@@ -36,7 +36,16 @@ Comprobar experimentalmente el teorema de Thévenin en un circuito resistivo.
 
 ![image](https://user-images.githubusercontent.com/105680588/177693790-160fab2c-b691-4e81-8f97-dbcf2a31aa79.png)
 
-5.4.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
+**5.4.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
+
+![image](https://user-images.githubusercontent.com/105680588/177694840-da8729d5-4641-462b-a60c-8a02fdc88fdb.png)
+
+**5.4.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1**
+
+![image](https://user-images.githubusercontent.com/105680588/177695479-e283b2b6-0021-425e-bf45-6f4bfa684c41.png)
+
+**5.4.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
+
 
 
 
