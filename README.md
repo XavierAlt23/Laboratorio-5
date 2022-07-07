@@ -17,8 +17,15 @@ Comprobar experimentalmente el teorema de Thévenin en un circuito resistivo.
 
 
 **OBJETIVO ESPECIFICO:**
-
+◆ Aplicar el teorema de Thevenin para simplificar un circuito para su análisis
+◆ Describir la forma de un circuito equivalente de Thevenin 
+◆ Obtener la fuente de voltaje equivalente de Thevenin 
+◆ Obtener la resistencia equivalente de Theveni
 **5.2 MARCO TEORICO**
+![Captura de pantalla 2022-07-07 000050](https://user-images.githubusercontent.com/105680816/177694993-11594be2-8722-48fe-84f9-955bc022fb4c.png)
+![Captura de pantalla 2022-07-07 000106](https://user-images.githubusercontent.com/105680816/177695025-b527ff1a-0168-4e27-88bf-917ef68748f6.png)
+![Captura de pantalla 2022-07-07 000118](https://user-images.githubusercontent.com/105680816/177695047-0a19f857-9b55-4fd4-9318-67f4e99d5a7f.png)
+
 
 5.3 MATERIAL Y EQUIPO REQUERIDO 
 
